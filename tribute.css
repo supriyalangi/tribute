@@ -1,0 +1,121 @@
+body {
+    /*background-color: burlywood;*/
+    margin: 15%;
+    background-image: url("C:\\Users\\Ashish\\Pictures\\photographer\\space1.jpeg");
+  }
+
+  #tittle {
+    color: orange;
+    text-align: center;
+    text-shadow: 1px 1px goldenrod; /*x & y axis*/
+  }
+
+  #tittle:hover {
+    color: black;
+  }
+
+  #img {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+  }
+
+  #caption {
+    font-size: 20px;
+    background-color: darkorange;
+    text-align: center;
+    box-shadow: 10px 10px 10px goldenrod;/*x & y axis blur radius*/
+
+  }
+
+  #tribute-data {
+    background-color: darkorange;
+    box-shadow: 20px 20px 20px goldenrod;
+  }
+
+  #tribute-link {
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+  }
+
+
+  @media only screen and (max-width:6200px) {
+
+    #body,
+    #titleb,
+    #caption,
+    #tribute-data,
+    #tribute-link {
+      width: auto;
+    }
+  }
+
+  @media only screen {
+    img {
+      text-align: center;
+      height: auto;
+      max-width: 100%;
+    }
+  } body {
+    /*background-color: burlywood;*/
+    margin: 15%;
+    background-image: url("C:\\my program\\4th assignment\\tribute\\img\\space1.jpeg");
+  }
+
+  #tittle {
+    color: orange;
+    text-align: center;
+    text-shadow: 1px 1px goldenrod; /*x & y axis*/
+  }
+
+  #tittle:hover {
+    color: black;
+  }
+
+  #img {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+  }
+
+  #caption {
+    font-size: 20px;
+    background-color: darkorange;
+    text-align: center;
+    box-shadow: 10px 10px 10px goldenrod;/*x & y axis blur radius*/
+
+  }
+
+  #tribute-data {
+    background-color: darkorange;
+    box-shadow: 20px 20px 20px goldenrod;
+  }
+
+  #tribute-link {
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+  }
+
+
+  @media only screen and (max-width:6200px) {
+
+    #body,
+    #titleb,
+    #caption,
+    #tribute-data,
+    #tribute-link {
+      width: auto;
+    }
+  }
+
+  @media only screen {
+    img {
+      text-align: center;
+      height: auto;
+      max-width: 100%;
+    }
+  }
